@@ -1,0 +1,6 @@
+-r base.txt
+
+bandit==1.6.2
+coverage==4.5.3
+flake8==3.7.8
+factory_boy==3.0.1

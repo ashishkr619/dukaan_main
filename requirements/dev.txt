@@ -1,0 +1,4 @@
+-r base.txt
+
+flake8==3.7.8
+factory_boy==3.0.1
